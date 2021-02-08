@@ -1,0 +1,26 @@
+_repo: Vizenjarok-es-ketkezi-munkasok_64431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tömörkény, István
+    aliases:
+    - Tomorkeny, Istvan
+    - István Tömörkény
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '32758'
+    url: http://www.gutenberg.org/2009/agents/32758
+    wikipedia: http://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2021-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64431'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vizenjárók és kétkézi munkások
+url: http://www.gutenberg.org/ebooks/64431
